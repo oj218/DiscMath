@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 10.00
 # Visual Studio 2008
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DiscMath", "DiscMath\DiscMath.csproj", "{DB6CEB40-94A6-4EDA-A405-534C0F43AAF3}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExtendedEuclides", "ExtendedEuclides\ExtendedEuclides.csproj", "{830617CC-CC83-4906-9FE0-5A17FD1A86E0}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -9,10 +9,10 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{DB6CEB40-94A6-4EDA-A405-534C0F43AAF3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{DB6CEB40-94A6-4EDA-A405-534C0F43AAF3}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{DB6CEB40-94A6-4EDA-A405-534C0F43AAF3}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{DB6CEB40-94A6-4EDA-A405-534C0F43AAF3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{830617CC-CC83-4906-9FE0-5A17FD1A86E0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{830617CC-CC83-4906-9FE0-5A17FD1A86E0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{830617CC-CC83-4906-9FE0-5A17FD1A86E0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{830617CC-CC83-4906-9FE0-5A17FD1A86E0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
